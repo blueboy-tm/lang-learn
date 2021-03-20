@@ -1,0 +1,8 @@
+venv
+old-version
+build
+dist
+*.spec
+__pycache__
+compile
+maindata.json
